@@ -7,3 +7,6 @@ pip install requests
 
 pip install discord.py
 
+Örnek çıktı
+===========
+![alt text]([http://url/to/img.png](https://github.com/brakdemir/dc_earthquake_bot/blob/main/d.png))
