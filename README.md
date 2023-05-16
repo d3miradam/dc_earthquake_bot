@@ -9,4 +9,4 @@ pip install discord.py
 
 Örnek çıktı
 ===========
-![alt text]([https://github.com/brakdemir/dc_earthquake_bot/blob/main/d.png])
+![alt text](https://github.com/brakdemir/dc_earthquake_bot/blob/main/d.png)
