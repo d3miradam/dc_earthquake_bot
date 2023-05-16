@@ -10,3 +10,7 @@ pip install discord.py
 Örnek çıktı
 ===========
 ![alt text](https://github.com/brakdemir/dc_earthquake_bot/blob/main/d.png)
+
+Not
+===
+Marmara Denizi ve İstanbulda oluşan depremlerin bildiriminde @everyone mesajo atar.
