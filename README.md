@@ -13,4 +13,4 @@ pip install discord.py
 
 Not
 ===
-Marmara Denizi ve İstanbul'da oluşan depremlerin bildiriminde @everyone mesajo atar.
+Marmara Denizi ve İstanbul'da oluşan depremlerin bildiriminde @everyone mesaj atar.
